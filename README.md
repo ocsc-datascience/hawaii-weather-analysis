@@ -5,8 +5,8 @@ USC Data Analytics Certificate program.
 
 The exercise consists of two parts:
 
-1. A general analysis using SQLAlchemy's ORM cababilities to interface
-with an SQLite3 database.
+1. A Jupyter Notebook presenting a general analysis using SQLAlchemy's
+ORM cababilities to interface with an SQLite3 database.
 
 2. A Python/Flask App that provides an API to query temperature and
 precipitation data as measured in the State of Hawaii between January
